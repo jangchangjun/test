@@ -72,6 +72,7 @@ df.head()
 <img src="./vision api.png" width = "200"/>
 </p>
 
+
 ### 2.2 네이버
 
 ## 3 프로젝트 1에서 활용해 볼 API 선정
