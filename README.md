@@ -66,7 +66,7 @@ df.head()
 - [Vision API](#https://cloud.google.com/vision?hl=ko)
   - Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지는 API이다.
   - 이미지 크기 조정 불가
-![vision_api_log](vision api.png)  
+  ![vision_api_log](https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png)  
   - 이미지 크기 조정 가능
 <p align = "center">
 <img src="./vision api.png" width = "200"/>
